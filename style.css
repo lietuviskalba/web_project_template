@@ -34,6 +34,25 @@ h2 {
     border-right: 5px solid var(--h1_border_color);
 }
 
+nav {
+    background-color: #135663;
+    border-bottom: 3px solid #3D7F8B;
+}
+
+ul {
+    margin: 0px;
+    padding: 1em;
+    word-spacing: 10px;
+}
+
+li {
+
+    list-style: name;
+    display: inline-block;
+    font-size: 2em;
+
+}
+
 a {
     color: rgb(150, 198, 240);
 }
